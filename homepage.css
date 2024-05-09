@@ -7,7 +7,7 @@
 
 }
 .navbar-nav{
-	margin-left: 800px;
+	margin-left: 1000px !important;
 	font-size: 25px;
 	font-weight: bolder;
 	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -153,7 +153,9 @@
   .fort{
   	background-color:black;
   	border: none;
-  	font-weight: bolder;
+    margin-right: 20px;
+
+   	font-weight: bolder;
   	cursor: pointer;
   	  	color: white;
 
